@@ -18,7 +18,7 @@ This repository includes basic C programs covering:
 
 ## 📸 Output Screenshots
 
-Each program has a corresponding screenshot showing its output. These are located in the `screenshots/` directory.
+Each program screenshot showing its output.
 
 ## 🛠 How to Run
 
